@@ -49,6 +49,15 @@ Each dataset comes with its predefined log format and regex patterns for parsing
    pip install -r requirements.txt
    ```
 
+3. Add a .env file for OpenAI API Key
+
+   In the root directory of the project, create a file named .env.
+
+   Open the .env file and add your OpenAI API key as follows:
+
+      ```makefile
+         OPENAI_API_KEY=your_openai_api_key_here
+      ```
 
 ## Usage
 

@@ -1,0 +1,9 @@
+langchain
+pydantic
+openai
+pandas
+langchain-community
+logparser3
+tiktoken
+faiss-cpu
+streamlit

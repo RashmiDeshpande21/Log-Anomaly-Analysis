@@ -1,0 +1,86 @@
+EventId,EventTemplate,Occurrences
+E0,"('authentication',)",490
+E1,"('check',)",117
+E2,"('session',)",246
+E3,"('ALERT',)",43
+E4,"('connection',)",909
+E5,"('User',)",1
+E6,"('Received',)",1
+E7,"('***',)",1
+E8,"('ROOT',)",1
+E9,"(""Couldn't"",)",1
+E10,"('syslogd',)",1
+E11,"('BIOS-provided',)",1
+E12,"('<*>',)",2
+E13,"('zapping',)",1
+E14,"('On',)",1
+E15,"('DMA',)",1
+E16,"('Normal',)",1
+E17,"('irqbalance',)",1
+E18,"('HighMem',)",1
+E19,"('DMI',)",1
+E20,"('ACPI',)",1
+E21,"('You',)",1
+E22,"('Built',)",1
+E23,"('Kernel',)",1
+E24,"('mapped',)",1
+E25,"('CPU',)",1
+E26,"('portmap',)",1
+E27,"('PID',)",1
+E28,"('Detected',)",1
+E29,"('Version',)",1
+E30,"('Using',)",1
+E31,"('rpc.statd',)",1
+E32,"('Calibrating',)",1
+E33,"('Security',)",1
+E34,"('There',)",1
+E35,"('Failure',)",1
+E36,"('Capability',)",1
+E37,"('rpc.idmapd',)",1
+E38,"('Dentry',)",1
+E39,"('Inode-cache',)",1
+E40,"('Mount-cache',)",1
+E41,"('Checking',)",1
+E42,"('POSIX',)",1
+E43,"('Starting',)",1
+E44,"('Transparent',)",1
+E45,"('HCI',)",1
+E46,"('hcid',)",1
+E47,"('Setting',)",1
+E48,"('Total',)",1
+E49,"('Bringing',)",1
+E50,"('Dquot-cache',)",1
+E51,"('Real',)",1
+E52,"('cupsd',)",12
+E53,"('Authentication',)",23
+E54,"('Kerberos',)",23
+E55,"('removing',)",4
+E56,"('creating',)",4
+E57,"('getpeername',)",4
+E58,"('ANONYMOUS',)",2
+E59,"('klogd',)",2
+E60,"('Intel',)",2
+E61,"('Enabling',)",2
+E62,"('Initializing',)",2
+E63,"('sdpd',)",2
+E64,"('notify',)",16
+E65,"('Linux',)",3
+E66,"('imps2:', '')",1
+E67,"('Console:', '')",1
+E68,"('Memory:', '')",1
+E69,"('NET:', '')",1
+E70,"('mtrr:', '')",1
+E71,"('apm:', '')",1
+E72,"('audit:', '')",1
+E73,"('VFS:', '')",1
+E74,"('warning:', '')",2
+E75,"('usbcore:', '')",2
+E76,"('isapnp:', '')",2
+E77,"('<*>', '')",5
+E78,"('SELinux:', '')",3
+E79,"('CPU:', '')",3
+E80,"('ACPI:', '')",3
+E81,"('PCI:', '')",6
+E82,"('selinux_', 'register_', 'security:', '')",1
+E83,"('kernel.core_', 'uses_', 'pid')",1
+E84,"('pci_', 'hotplug:', '')",1

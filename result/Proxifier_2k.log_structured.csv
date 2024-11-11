@@ -1,0 +1,98 @@
+LineId,Time,Program,Content,EventId,EventTemplate
+1,[10.30,17:15:42] QQ.exe - tcpconn6.tencent.com:443 error ,A,E0,A
+2,[10.30,17:16:10] QQ.exe - tcpconn4.tencent.com:80 error ,Could,E1,Could
+3,[10.30,17:57:12] YodaoDict.exe - oimagec7.ydstatic.com:80 error ,A,E0,A
+4,[10.30,18:00:12] FlashPlayerPlugin_18_0_0_209.exe - formi.baidu.com:843 error ,Could,E1,Could
+5,[10.30,18:04:14] Skype.exe - 86.99.222.235:443 error ,Could,E1,Could
+6,[10.30,20:42:33] YodaoDict.exe - oimagea5.ydstatic.com:80 error ,A,E0,A
+7,[10.30,20:45:51] YodaoDict.exe - oimagea5.ydstatic.com:80 error ,A,E0,A
+8,[10.30,20:47:55] YodaoDict.exe - oimagea5.ydstatic.com:80 error ,A,E0,A
+9,[10.30,20:55:49] YodaoDict.exe - oimagea5.ydstatic.com:80 error ,A,E0,A
+10,[10.30,20:59:47] YodaoDict.exe - oimagea5.ydstatic.com:80 error ,A,E0,A
+11,[10.30,20:59:47] YodaoDict.exe - oimagea5.ydstatic.com:80 error ,A,E0,A
+12,[10.30,21:03:34] YodaoDict.exe - oimagea5.ydstatic.com:80 error ,A,E0,A
+13,[10.30,21:08:03] spoolsv.exe *64 - 127.0.0.1:135 error ,Could,E1,Could
+14,[10.30,21:11:51] YodaoDict.exe - oimageb3.ydstatic.com:80 error ,A,E0,A
+15,[10.30,21:11:55] YodaoDict.exe - oimagea5.ydstatic.com:80 error ,A,E0,A
+16,[10.30,21:11:55] YodaoDict.exe - oimageb1.ydstatic.com:80 error ,A,E0,A
+17,[10.30,21:12:56] YodaoDict.exe - oimagea3.ydstatic.com:80 error ,A,E0,A
+18,[10.30,21:12:56] YodaoDict.exe - oimagec1.ydstatic.com:80 error ,A,E0,A
+19,[10.30,21:12:56] YodaoDict.exe - oimageb5.ydstatic.com:80 error ,A,E0,A
+20,[10.30,21:13:23] spoolsv.exe *64 - 127.0.0.1:135 error ,Could,E1,Could
+21,[10.30,21:14:05] YodaoDict.exe - oimageb2.ydstatic.com:80 error ,A,E0,A
+22,[10.30,21:14:05] YodaoDict.exe - oimageb4.ydstatic.com:80 error ,A,E0,A
+23,[10.30,21:14:05] YodaoDict.exe - oimagec7.ydstatic.com:80 error ,A,E0,A
+24,[10.30,21:14:05] YodaoDict.exe - oimagec4.ydstatic.com:80 error ,A,E0,A
+25,[10.30,21:14:05] YodaoDict.exe - oimageb8.ydstatic.com:80 error ,A,E0,A
+26,[10.30,21:16:41] YodaoDict.exe - oimagea5.ydstatic.com:80 error ,A,E0,A
+27,[10.30,21:16:41] YodaoDict.exe - oimagea5.ydstatic.com:80 error ,A,E0,A
+28,[10.30,21:16:41] YodaoDict.exe - oimageb8.ydstatic.com:80 error ,A,E0,A
+29,[10.30,21:16:41] YodaoDict.exe - oimagec1.ydstatic.com:80 error ,A,E0,A
+30,[10.30,21:17:51] YodaoDict.exe - oimagea5.ydstatic.com:80 error ,A,E0,A
+31,[07.26,13:48:21] chrome.exe *64 - hm.baidu.com:80 error ,A,E0,A
+32,[07.26,14:11:50] WeChat.exe - 203.205.129.102:8080 error ,Could,E1,Could
+33,[07.26,14:43:52] chrome.exe *64 - mtalk.google.com:5228 error ,Could,E1,Could
+34,[07.26,14:52:38] chrome.exe *64 - hm.baidu.com:443 error ,A,E0,A
+35,[07.26,17:23:51] WeChat.exe - 223.167.104.147:80 error ,Could,E1,Could
+36,[07.26,17:23:54] chrome.exe *64 - mtalk.google.com:5228 error ,Could,E1,Could
+37,[07.26,17:23:55] chrome.exe *64 - www.google.com:443 error ,Could,E1,Could
+38,[07.26,17:23:55] chrome.exe *64 - awqiizxequsixgr:80 error ,Could,E1,Could
+39,[07.26,17:23:59] chrome.exe *64 - www.baidu.com:80 error ,Could,E1,Could
+40,[07.26,17:23:59] chrome.exe *64 - c.baidu.com:80 error ,Could,E1,Could
+41,[07.26,17:23:59] chrome.exe *64 - s1.bdstatic.com:80 error ,Could,E1,Could
+42,[07.26,17:23:59] chrome.exe *64 - s1.bdstatic.com:80 error ,Could,E1,Could
+43,[07.26,17:23:59] chrome.exe *64 - ss.bdimg.com:80 error ,Could,E1,Could
+44,[07.26,17:23:59] chrome.exe *64 - ss.bdimg.com:80 error ,Could,E1,Could
+45,[07.26,17:23:59] chrome.exe *64 - ss.bdimg.com:80 error ,Could,E1,Could
+46,[07.26,17:24:02] chrome.exe *64 - clients4.google.com:443 error ,Could,E1,Could
+47,[07.26,17:24:02] Dropbox.exe - bolt.dropbox.com:443 error ,Could,E1,Could
+48,[07.26,17:24:02] chrome.exe *64 - wpad:80 error ,Could,E1,Could
+49,[07.26,17:24:08] WeChat.exe - www.qq.com:80 error ,Could,E1,Could
+50,[07.26,17:29:21] HiSuiteDownLoader.exe - update.hicloud.com:8180 error ,Could,E1,Could
+51,[07.26,17:30:02] chrome.exe *64 - csdnimg.cn:80 error ,A,E0,A
+52,[07.26,17:30:02] chrome.exe *64 - hm.baidu.com:443 error ,A,E0,A
+53,[07.26,17:30:32] chrome.exe *64 - csdnimg.cn:80 error ,A,E0,A
+54,[07.26,18:05:25] WeChat.exe - 203.205.151.204:80 error ,Could,E1,Could
+55,[07.26,18:55:22] SogouCloud.exe - get.sogou.com:80 error ,Could,E1,Could
+56,[07.26,18:55:22] WeChat.exe - 120.204.0.139:8080 error ,Could,E1,Could
+57,[07.26,18:55:22] WeChat.exe - 101.226.211.46:8080 error ,Could,E1,Could
+58,[07.26,19:01:46] tencentdl.exe - local-p2p.qq.com:443 error ,Could,E1,Could
+59,[07.26,19:01:46] tencentdl.exe - local-p2p.qq.com:443 error ,Could,E1,Could
+60,[07.26,21:29:27] chrome.exe *64 - mtalk.google.com:5228 error ,Could,E1,Could
+61,[07.26,22:05:04] QQProtectUpd.exe - qd-update.qq.com:8080 error ,Could,E1,Could
+62,[07.26,22:06:02] SGTool.exe - config.pinyin.sogou.com:80 error ,Could,E1,Could
+63,[07.27,03:00:17] Dropbox.exe - client.dropbox.com:443 error ,Could,E1,Could
+64,[07.27,03:00:18] Dropbox.exe - client-cf.dropbox.com:443 error ,A,E0,A
+65,[07.27,04:17:03] chrome.exe *64 - mtalk.google.com:5228 error ,Could,E1,Could
+66,[07.27,04:38:15] chrome.exe *64 - mtalk.google.com:5228 error ,Could,E1,Could
+67,[07.27,05:05:50] chrome.exe *64 - qa.sockets.stackexchange.com:443 error ,Could,E1,Could
+68,[07.27,05:05:51] chrome.exe *64 - 13.client-channel.google.com:443 error ,Could,E1,Could
+69,[07.27,05:05:52] chrome.exe *64 - 13.client-channel.google.com:443 error ,Could,E1,Could
+70,[07.27,05:05:52] chrome.exe *64 - 13.client-channel.google.com:443 error ,Could,E1,Could
+71,[07.27,05:05:53] chrome.exe *64 - www.google.com:443 error ,Could,E1,Could
+72,[07.27,05:05:53] Dropbox.exe - client-cf.dropbox.com:443 error ,Could,E1,Could
+73,[07.27,05:05:54] chrome.exe *64 - qa.sockets.stackexchange.com:443 error ,Could,E1,Could
+74,[07.27,05:05:54] chrome.exe *64 - 16.client-channel.google.com:443 error ,Could,E1,Could
+75,[07.27,05:05:56] Dropbox.exe - bolt.dropbox.com:443 error ,Could,E1,Could
+76,[07.27,05:06:01] Dropbox.exe - bolt.dropbox.com:443 error ,Could,E1,Could
+77,[07.27,05:06:08] chrome.exe *64 - www.google.com:443 error ,Could,E1,Could
+78,[07.27,05:06:09] Dropbox.exe - bolt.dropbox.com:443 error ,Could,E1,Could
+79,[07.27,05:06:13] chrome.exe *64 - 16.client-channel.google.com:443 error ,Could,E1,Could
+80,[07.27,05:06:15] chrome.exe *64 - www.google.com:443 error ,Could,E1,Could
+81,[07.27,05:06:22] chrome.exe *64 - mtalk.google.com:5228 error ,Could,E1,Could
+82,[07.27,05:06:32] chrome.exe *64 - www.google.com:443 error ,Could,E1,Could
+83,[07.27,05:06:40] Dropbox.exe - client-lb.dropbox.com:443 error ,Could,E1,Could
+84,[07.27,05:07:02] Dropbox.exe - bolt.dropbox.com:443 error ,Could,E1,Could
+85,[07.27,05:07:06] chrome.exe *64 - 16.client-channel.google.com:443 error ,Could,E1,Could
+86,[07.27,05:08:27] Dropbox.exe - bolt.dropbox.com:443 error ,Could,E1,Could
+87,[07.27,05:08:29] Dropbox.exe - bolt.dropbox.com:443 error ,Could,E1,Could
+88,[07.27,05:09:52] Dropbox.exe - bolt.dropbox.com:443 error ,Could,E1,Could
+89,[07.27,05:10:59] Dropbox.exe - bolt.dropbox.com:443 error ,Could,E1,Could
+90,[07.27,05:11:29] Dropbox.exe - bolt.dropbox.com:443 error ,Could,E1,Could
+91,[07.27,05:11:34] chrome.exe *64 - 16.client-channel.google.com:443 error ,Could,E1,Could
+92,[07.27,05:12:56] Dropbox.exe - bolt.dropbox.com:443 error ,Could,E1,Could
+93,[07.27,06:19:08] chrome.exe *64 - mtalk.google.com:5228 error ,Could,E1,Could
+94,[07.27,06:34:38] chrome.exe *64 - mtalk.google.com:5228 error ,Could,E1,Could
+95,[07.27,09:49:48] SohuNews.exe - i2.itc.cn:80 error ,Could,E1,Could
+96,[07.27,10:05:05] QQProtectUpd.exe - qd-update.qq.com:8080 error ,Could,E1,Could
+97,[07.27,10:05:06] QQProtectUpd.exe - qd-update.qq.com:8080 error ,Could,E1,Could

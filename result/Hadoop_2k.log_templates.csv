@@ -1,0 +1,101 @@
+EventId,EventTemplate,Occurrences
+E0,"('Created', 'MRAppMaster', 'for', 'application', 'appattempt_', '<*>', '<*>', '<*>')",1
+E1,"('Scheduled', 'snapshot', 'period', '<*>', '<*>', 'second(', 's)', '.')",1
+E2,"('Http', 'request', 'log', '<*>', '<*>', 'is', 'not', 'defined')",1
+E3,"('job_', '<*>', '<*>', 'Transitioned', 'from', '<*>', 'to', '<*>')",3
+E4,"('Added', 'global', 'filter', ""'safety'"", '(', 'class=', 'org.apache.hadoop.http.HttpServer2$QuotingInputFilter)', '')",1
+E5,"('Reduce', 'slow', 'start', 'threshold', 'not', 'met.', 'completedMapsForReduceSlowstart', '<*>')",130
+E6,"('Received', 'completed', 'container', 'container_', '<*>', '<*>', '<*>', '<*>')",2
+E7,"('Address', 'change', 'detected.', 'Old:', '<*>', 'New:', '<*>', '<*>')",476
+E8,"('DFSOutputStream', 'ResponseProcessor', 'exception', 'for', 'block', '<*>', '<*>', '<*>')",1
+E9,"('Executing', '<*>', 'tokens:', '')",1
+E10,"('loaded', '<*>', 'from', 'hadoop-metrics2.properties')",1
+E11,"('MRAppMaster', 'metrics', 'system', 'started')",1
+E12,"('<*>', 'callQueue', 'class', 'java.util.concurrent.LinkedBlockingQueue')",2
+E13,"('<*>', 'path', 'spec:', '/mapreduce/*')",1
+E14,"('<*>', 'path', 'spec:', '/ws/*')",1
+E15,"('Instantiated', 'MRClientService', 'at', '<*>')",1
+E16,"('Registered', 'webapp', 'guice', 'modules')",1
+E17,"('IPC', 'Server', 'Responder:', 'starting')",2
+E18,"('Resolved', '<*>', 'to', '/default-rack')",39
+E19,"('Got', 'allocated', 'containers', '<*>')",10
+E20,"('Num', 'completed', 'Tasks:', '<*>')",1
+E21,"('ERROR', 'IN', 'CONTACTING', 'RM.')",147
+E22,"('Kind:', 'YARN_', 'AM_', 'RM_', 'TOKEN,', 'Service:', ',', 'Ident:', '(', 'appAttemptId', '{', 'application_', 'id', '{', 'id:', '<*>', 'cluster_', 'timestamp:', '<*>', '}', 'attemptId:', '<*>', '}', 'keyId:', '<*>', '')",1
+E23,"('<*>', 'mapred', 'newApiCommitter.')",1
+E24,"('<*>', ':', '<*>')",1
+E25,"('OutputCommitter', 'is', 'org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter')",1
+E26,"('maxTaskFailuresPerNode', 'is', '<*>')",1
+E27,"('blacklistDisablePercent', 'is', '<*>')",1
+E28,"('<*>', 'set', 'in', 'config', 'null')",1
+E29,"('<*>', 'shuffle', 'token', 'in', 'serviceData')",1
+E30,"('<*>', 'writing', 'History', 'Event:', 'org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@7317849d')",1
+E31,"('Jetty', 'bound', 'to', 'port', '<*>')",1
+E32,"('JOB_', 'CREATE', '<*>', '<*>', '<*>')",1
+E33,"('Connecting', 'to', '<*>', '<*>', '<*>')",1
+E34,"('<*>', '<memory:', '<*>', 'vCores:', '<*>')",3
+E35,"('Opening', 'proxy', ':', '<*>', '<*>')",13
+E36,"('<*>', 'failures', 'on', 'node', 'MININT-FNANLI5.fareast.corp.microsoft.com')",2
+E37,"('Registering', 'class', '<*>', 'for', 'class', '<*>')",9
+E38,"('Default', 'file', 'system', '[hdfs:', '<*>', '<*>')",3
+E39,"('<*>', 'protocol', 'org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB', 'to', '<*>', 'server')",1
+E40,"('<*>', 'app', '/mapreduce', 'started', '<*>', '<*>')",1
+E41,"('<*>', 'of', 'containertokens_', 'dob', '<*>', '<*>')",1
+E42,"('IPC', 'Server', 'listener', 'on', '<*>', 'starting')",2
+E43,"('Logging', 'to', 'org.slf4j.impl.Log4jLoggerAdapter(', 'org.mortbay.log)', 'via', 'org.mortbay.log.Slf4jLog')",1
+E44,"('Processing', 'the', 'event', 'EventType:', '<*>', '<*>')",3
+E45,"('Emitting', 'job', 'history', 'data', 'to', 'the', 'timeline', 'server', 'is', 'not', 'enabled')",1
+E46,"('Added', 'filter', 'AM_', 'PROXY_', 'FILTER', '(', 'class=', 'org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter)', 'to', 'context', '<*>')",2
+E47,"('task_', '<*>', '<*>', '<*>', '<*>', 'Task', 'Transitioned', 'from', '<*>', 'to', '<*>')",22
+E48,"('The', '<*>', 'file', '<*>', '<*>', 'remote', 'FS', '<*>', '<*>', '<*>', '<*>')",1
+E49,"('Task', '<*>', 'failed', '<*>', '<*>', 'attempt_', '<*>', '<*>', '<*>', '<*>', '<*>')",2
+E50,"('Scheduling', 'a', 'redundant', 'attempt', 'for', 'task', 'task_', '<*>', '<*>', 'm_', '<*>')",1
+E51,"('Adding', 'job', 'token', 'for', 'job_', '<*>', '<*>', 'to', 'jobTokenSecretManager')",1
+E52,"('<*>', 'launching', 'normal,', 'non-uberized,', 'multi-container', 'job', 'job_', '<*>', '<*>')",1
+E53,"('<*>', 'limit', 'on', 'the', 'thread', 'pool', 'size', '<*>', '<*>')",1
+E54,"('Done', 'acknowledgement', 'from', 'attempt_', '<*>', '<*>', 'm_', '<*>', '<*>')",1
+E55,"('All', 'maps', 'assigned.', 'Ramping', 'up', 'all', 'remaining', 'reduces:', '<*>')",1
+E56,"('Not', 'uberizing', 'job_', '<*>', '<*>', 'because:', 'not', 'enabled;', 'too', 'many', 'maps;', 'too', 'much', 'input;')",1
+E57,"('Input', 'size', 'for', 'job', 'job_', '<*>', '<*>', '=', '<*>', 'Number', 'of', 'splits', '=', '<*>')",1
+E58,"('Assigned', 'container', 'container_', '<*>', '<*>', '<*>', '<*>', 'to', 'attempt_', '<*>', '<*>', 'm_', '<*>', '<*>')",10
+E59,"('Shuffle', 'port', 'returned', 'by', 'ContainerManager', 'for', 'attempt_', '<*>', '<*>', 'm_', '<*>', '<*>', ':', '<*>')",10
+E60,"('attempt_', '<*>', '<*>', 'm_', '<*>', '<*>', 'TaskAttempt', 'Transitioned', 'from', '<*>', '<*>', '<*>', '<*>', '<*>')",6
+E61,"('Diagnostics', 'report', 'from', 'attempt_', '<*>', '<*>', 'm_', '<*>', '<*>', 'Container', 'killed', 'by', 'the', 'ApplicationMaster.')",1
+E62,"('Error', 'Recovery', 'for', 'block', '<*>', '<*>', '<*>', 'in', 'pipeline', '<*>', '<*>', 'bad', 'datanode', '<*>')",1
+E63,"('Number', 'of', 'reduces', 'for', 'job', 'job_', '<*>', '<*>', '=', '<*>')",1
+E64,"('Auth', 'successful', 'for', 'job_', '<*>', '<*>', '(', 'auth:', 'SIMPLE)', '')",10
+E65,"('Task', 'succeeded', 'with', 'attempt', 'attempt_', '<*>', '<*>', 'm_', '<*>', '<*>')",1
+E66,"('DefaultSpeculator.addSpeculativeAttempt', '--', 'we', 'are', 'speculating', 'task_', '<*>', '<*>', 'm_', '<*>')",1
+E67,"('Starting', 'Socket', 'Reader', '<*>', 'for', 'port', '<*>')",2
+E68,"('Recalculating', 'schedule,', 'headroom=', '<memory:', '<*>', 'vCores:', '<*>')",131
+E69,"('Launching', 'attempt_', '<*>', '<*>', 'm_', '<*>', '<*>')",10
+E70,"('ATTEMPT_', 'START', 'task_', '<*>', '<*>', 'm_', '<*>')",10
+E71,"('KILLING', 'attempt_', '<*>', '<*>', 'm_', '<*>', '<*>')",3
+E72,"('Reduce', 'slow', 'start', 'threshold', 'reached.', 'Scheduling', 'reduces.')",1
+E73,"('We', 'launched', '<*>', 'speculations.', 'Sleeping', '<*>', 'milliseconds.')",1
+E74,"('Thread', 'Thread[eventHandlingThread,', '<*>', 'main]', 'threw', 'an', 'Exception.')",1
+E75,"('<*>',)",1
+E76,"('Extract', 'jar:', 'file:', '/D:', '<*>', 'to', 'C:', '\\Users\\msrabi\\AppData\\Local\\Temp\\Jetty_', '<*>', '<*>', '<*>', '<*>', '<*>', 'mapreduce_', '_', '_', '_', '.8n7xum\\webapp')",1
+E77,"('TaskAttempt:', '[attempt_', '<*>', '<*>', 'm_', '<*>', '<*>', 'using', 'containerId:', '[container_', '<*>', '<*>', '<*>', '<*>', 'on', 'NM:', '<*>', '<*>')",10
+E78,"('Started', '<*>')",1
+E79,"('nodeBlacklistingEnabled:', 'true')",1
+E80,"('queue:', 'default')",1
+E81,"('DataStreamer', 'Exception')",1
+E82,"('attempt_', '<*>', '<*>', '<*>', '<*>', '<*>', 'TaskAttempt', 'Transitioned', 'from', '<*>', 'to', '<*>')",34
+E83,"('Progress', 'of', 'TaskAttempt', 'attempt_', '<*>', '<*>', 'm_', '<*>', '<*>', 'is', ':', '<*>')",289
+E84,"('Container', 'complete', 'event', 'for', 'unknown', 'container', 'id', 'container_', '<*>', '<*>', '<*>', '<*>')",1
+E85,"('Added', 'attempt_', '<*>', '<*>', 'm_', '<*>', '<*>', 'to', 'list', 'of', 'failed', 'maps')",2
+E86,"('Event', 'Writer', 'setup', 'for', 'JobId:', 'job_', '<*>', '<*>', 'File:', 'hdfs:', '<*>', '<*>', '<*>', '<*>', '<*>', '<*>', '<*>')",1
+E87,"('<*>', 'Scheduling:', 'PendingReds:', '<*>', 'ScheduledMaps:', '<*>', 'ScheduledReds:', '<*>', 'AssignedMaps:', '<*>', 'AssignedReds:', '<*>', 'CompletedMaps:', '<*>', 'CompletedReds:', '<*>', 'ContAlloc:', '<*>', 'ContRel:', '<*>', 'HostLocal:', '<*>', 'RackLocal:', '<*>')",17
+E88,"('getResources(', ')', 'for', 'application_', '<*>', '<*>', 'ask=', '<*>', 'release=', '<*>', 'newContainers=', '<*>', 'finishedContainers=', '<*>', 'resourcelimit=', '<memory:', '<*>', 'vCores:', '<*>', 'knownNMs=', '<*>')",12
+E89,"('Processing', 'the', 'event', 'EventType:', 'CONTAINER_', 'REMOTE_', '<*>', 'for', 'container', 'container_', '<*>', '<*>', '<*>', '<*>', 'taskAttempt', 'attempt_', '<*>', '<*>', 'm_', '<*>', '<*>')",13
+E90,"('The', 'job-jar', 'file', 'on', 'the', 'remote', 'FS', 'is', 'hdfs:', '<*>', '<*>', '<*>', '<*>')",1
+E91,"('Adding', '<*>', 'tokens', 'and', '<*>', 'secret', 'keys', 'for', 'NM', 'use', 'for', 'launching', 'container')",1
+E92,"('JVM', 'with', 'ID', ':', 'jvm_', '<*>', '<*>', 'm_', '<*>', 'asked', 'for', 'a', 'task')",10
+E93,"('JVM', 'with', 'ID:', 'jvm_', '<*>', '<*>', 'm_', '<*>', 'given', 'task:', 'attempt_', '<*>', '<*>', 'm_', '<*>', '<*>')",10
+E94,"('Failed', 'to', 'renew', 'lease', 'for', '[DFSClient_', 'NONMAPREDUCE_', '<*>', '<*>', 'for', '<*>', 'seconds.', 'Will', 'retry', 'shortly', '...')",326
+E95,"('attempt_', '<*>', '<*>', 'm_', '<*>', '<*>', 'TaskAttempt', 'Transitioned', 'from', 'FAIL_', 'CONTAINER_', 'CLEANUP', 'to', 'FAIL_', 'TASK_', 'CLEANUP')",2
+E96,"('Cannot', 'assign', 'container', 'Container:', '[ContainerId:', 'container_', '<*>', '<*>', '<*>', '<*>', 'NodeId:', '<*>', '<*>', 'NodeHttpAddress:', '<*>', '<*>', 'Resource:', '<memory:', '<*>', 'vCores:', '<*>', 'Priority:', '<*>', 'Token:', 'Token', '{', 'kind:', 'ContainerToken,', 'service:', '<*>', '},', ']', 'for', 'a', 'map', 'as', 'either', 'container', 'memory', 'less', 'than', 'required', '<memory:', '<*>', 'vCores:', '<*>', 'or', 'no', 'pending', 'map', 'tasks', '-', 'maps.isEmpty=', 'true')",1
+E97,"('Slow', 'ReadProcessor', 'read', 'fields', 'took', '<*>', '(', 'threshold=', '<*>', ';', 'ack:', 'seqno:', '<*>', 'status:', 'SUCCESS', 'status:', 'ERROR', 'downstreamAckTimeNanos:', '<*>', 'targets:', '<*>', '<*>')",1
+E98,"('Retrying', 'connect', 'to', 'server:', '<*>', '<*>', 'Already', 'tried', '<*>', 'time(', 's)', ';', 'retry', 'policy', 'is', 'RetryUpToMaximumCountWithFixedSleep(', 'maxRetries=', '<*>', 'sleepTime=', '<*>', 'MILLISECONDS)', '')",146
+E99,"('<*>', '<*>', '<*>', '<*>', '<*>', '<*>', '<*>', '<*>', '<*>', '<*>', 'java.net.NoRouteToHostException:', 'No', 'Route', 'to', 'Host', '<*>', '<*>', 'to', '<*>', '<*>', 'failed', 'on', 'socket', 'timeout', 'exception:', 'java.net.NoRouteToHostException:', 'No', 'route', 'to', 'host:', 'no', 'further', 'information;', 'For', 'more', 'details', 'see:', 'http:', '//wiki.apache.org/hadoop/NoRouteToHost')",6
